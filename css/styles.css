@@ -29,3 +29,7 @@
 	padding-left: 0;
 	padding-right: 0;
 }
+.news {
+    border-left: dashed 1px rgb(153,153,153);
+    border-right: dashed 1px rgb(153,153,153);
+}
