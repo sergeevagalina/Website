@@ -28,11 +28,18 @@ body {
     background-size: cover;
     border-radius: 0;
 }
-#main-content {
+#main-photo {
 	padding-left: 0;
 	padding-right: 0;
 }
 .news {
     border-left: dashed 1px rgb(153,153,153);
     border-right: dashed 1px rgb(153,153,153);
+}
+.navbar-btn {
+	margin-left: 8px;
+}
+
+.btn:focus, .btn:hover {
+	background-color: rgb(225, 157, 31);
 }
