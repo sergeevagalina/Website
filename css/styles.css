@@ -43,3 +43,15 @@ body {
 .btn:focus, .btn:hover {
 	background-color: rgb(225, 157, 31);
 }
+
+.panel-footer {
+	background-color: rgb(16, 16, 16);
+	color: rgb(157, 157, 157);
+}
+.panel-footer a {
+	color: rgb(157, 157, 157);
+}
+.panel-footer a:hover, .panel-footer a:focus {
+	text-decoration: none;
+	color: rgb(225, 157, 31);
+}
